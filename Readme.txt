@@ -1,3 +1,1 @@
-/manga-downloader
-  /backend         
-  /frontend     
+A simple manga reader website where users can search for manga, browse chapters, and read or download them. Built with React for the frontend and a backend that talks to the MangaDex API. Supports PDF and ZIP downloads. Clean UI, smooth flow, and made for manga lovers. 📚✨
