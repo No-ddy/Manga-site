@@ -1,0 +1,3 @@
+/manga-downloader
+  /backend         
+  /frontend     
